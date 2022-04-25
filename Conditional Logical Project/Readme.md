@@ -2,7 +2,7 @@
 
 ## Weather Data :point_down:
 
-![alt text](https://github.com/muhammadwajeeharif/Excel_Project/blob/c1c33db4694fc63b381f2488a4fbc8a2259a4532/Conditional%20Logical%20Project/Weather_Data.png)
+![alt text](https://github.com/muhammadwajeeharif/Excel_Project/blob/c37f7ebac7739c7b9f99b918e32931a46a445650/Conditional%20Logical%20Project/Weather_Data.png)
 
 
 - This data refers from Boston Logan Airport Weather dataset.
@@ -16,4 +16,4 @@
 
 ## Weather Data Solution :point_down:
 
-![alt text](https://github.com/muhammadwajeeharif/Excel_Project/blob/c1c33db4694fc63b381f2488a4fbc8a2259a4532/Conditional%20Logical%20Project/Solution.png)	
+![alt text](https://github.com/muhammadwajeeharif/Excel_Project/blob/c37f7ebac7739c7b9f99b918e32931a46a445650/Conditional%20Logical%20Project/Solution.png)	
